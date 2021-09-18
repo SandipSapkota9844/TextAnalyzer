@@ -1,0 +1,2 @@
+# TextAnalyzer
+Analyzes the text!
